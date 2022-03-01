@@ -1,4 +1,4 @@
-# Star Duck
+# Star Duck 
 Starduck is an ERC-20 Token demo project for self-educational purpose.
 
 ## How to setup your own one?
