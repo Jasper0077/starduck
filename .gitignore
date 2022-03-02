@@ -72,3 +72,6 @@ build
 openzeppelin-docs
 
 .vscode
+
+# secrets
+secrets.json
