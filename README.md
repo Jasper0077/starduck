@@ -6,7 +6,7 @@ Starduck is an ERC-721 Token demo project for self-educational purpose.
   * Open Zeppelin
   * OpenSea
   * Infura
-  * Pinnata
+  * Pinata
   * IPFS
   * Meta Mask
 
