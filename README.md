@@ -1,5 +1,14 @@
 # Star Duck 
-Starduck is an ERC-20 Token demo project for self-educational purpose.
+Starduck is an ERC-721 Token demo project for self-educational purpose.
+
+## Prerequisites
+  * Truffle Suite
+  * Open Zeppelin
+  * OpenSea
+  * Infura
+  * Pinnata
+  * IPFS
+  * Meta Mask
 
 ## How to setup your own one?
 
@@ -32,10 +41,10 @@ Then, you will notice after like in the `node_modules/` folder, after installati
  ┗ 📜.package-lock.json
 ```
 
-We can setup a `React` truffle template by using:
+We can setup a `React` truffle template by using (optional):
 
 ```
 truffle unbox react
 ```
 
-Then, you are ready to go.
+Then, you are ready to move on.
